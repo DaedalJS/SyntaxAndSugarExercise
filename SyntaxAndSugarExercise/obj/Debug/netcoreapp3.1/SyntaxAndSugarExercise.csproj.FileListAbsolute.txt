@@ -1,0 +1,13 @@
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSugarExercise.exe
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSugarExercise.deps.json
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSugarExercise.runtimeconfig.json
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSugarExercise.runtimeconfig.dev.json
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSugarExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\bin\Debug\netcoreapp3.1\SyntaxAndSugarExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSugarExercise.csprojAssemblyReference.cache
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSugarExercise.AssemblyInfoInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSugarExercise.AssemblyInfo.cs
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSugarExercise.csproj.CoreCompileInputs.cache
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSugarExercise.dll
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSugarExercise.pdb
+C:\Users\HolyK\Desktop\GitRepos\SyntaxAndSugarExercise\SyntaxAndSugarExercise\obj\Debug\netcoreapp3.1\SyntaxAndSugarExercise.genruntimeconfig.cache
